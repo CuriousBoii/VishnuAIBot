@@ -6,16 +6,9 @@
 - Has to be able to take in pdf, doc and images and update its knowledge base.
 
 ## This project has been experiencing a few challenges.
-1. The main challenge is that the bot is facing error 429 on open ai's api. This means that i need to upgrade to a subscription plan. I have run out of the credits that were given to me by OpenAI.
+1. Where to host this bot for free?
 
 ## Kindly try doing the below
-1. Try other api's which are free. Obviously.
-2. Try importing some Gen AI model and tweak it to suit me.
+1. Try out hosting services which are free.
 
-## The python packages required are
-- python-telegram-bot
-- openai
-- python-dotenv
-
-Please manually pip install them. As no script file has been created.
 
